@@ -18,8 +18,7 @@ sidebar_position: 1
 &emsp;&emsp;正点原子官方旗舰店：
 https://zhengdianyuanzi.tmall.com/category-1498161504.htm?spm=a1z10.1-b-s.w5002-24686329123.3.221960a1ipYkUs&search=y&catName=Linux%BF%AA%B7%A2%B0%E5
 
-&emsp;&emsp;资料下载
-
+&emsp;&emsp;资料下载<br />
 &emsp;&emsp;正点原子资料下载中心：
 http://www.openedv.com/docs/boards/arm-linux/index.html 
 
