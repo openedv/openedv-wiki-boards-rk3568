@@ -59,7 +59,7 @@ th:nth-child(2) {
   left: 45px;     /* 第二列根据第一列宽度偏移 ‌:ml-citation{ref="2,3" data="citationList"} */
 }
 .table-one table tbody tr td:nth-child(3){
-  left: 200px;     /* 第二列根据第一列宽度偏移 ‌:ml-citation{ref="2,3" data="citationList"} */
+  left: 220px;     /* 第二列根据第一列宽度偏移 ‌:ml-citation{ref="2,3" data="citationList"} */
 }
 
 
